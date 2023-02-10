@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Holy, Powerful, Cathedral",
+  "mongoUrl": "mongodb+srv://root:toor@cluster0.sl0gpq8.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
